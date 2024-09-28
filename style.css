@@ -1,0 +1,196 @@
+@import "./components/navbar.css";
+@import "./components/reset.css";
+
+body {
+    font-family: Arial, sans-serif;
+    width: 100%;
+    overflow-x: hidden ;
+}
+
+.logoAOPA2 {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    color: white;
+}
+
+
+
+.local{
+    padding: 100%;
+    margin: 3;
+
+}
+
+
+.textoAopa{
+    padding: 7%;
+    margin: 3% 0 20px;
+    align-content: center;
+    font-size: xx-large;
+    height: 25vh;
+    width: 100%;
+    top: 0%;
+    position: relative;
+    background-color: hwb(0 80% 16% / 0.363);
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
+}
+
+
+.linkAOPA{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:hwb(0 80% 16% / 0.363);
+    position: relative;
+    top: 25px;
+    left: 0 10px 0 10px;
+}
+
+
+
+.imagemTXT{
+    display:flex ;
+    justify-content: center;
+    margin:none;
+    align-items: center;
+    width: 25%;
+    position: relative;
+    top: -10px;
+    left: 70px;
+}
+
+
+.txtAOPA{
+    position: relative;
+    justify-content: center;
+    top: -104px;
+    left: 280px;
+    background-color: hwb(0 80% 16% / 0.363);
+    padding: 7%;
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
+    
+}
+    
+
+.redesociaisAOPA{
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+    width: 100%;
+}
+
+.instaAopa{
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
+    
+
+}
+
+
+.facebook{
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
+    
+}
+
+.facebook img{
+    height: 475px;
+    width: 965px;
+}
+
+.instaAopa img{
+    width: 965px;
+    height: 475px;
+}
+
+
+
+ .instaAopa :hover{
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgb(0, 0, 0);
+
+}
+.facebook :hover{
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
+
+  }  
+
+  .aniversarioaopa {
+        padding: 7%;
+        margin: 3% 0% 20px;
+        align-content: center;    
+        height: 25vh;
+        width: 100%;
+        top: 0%;
+        position: relative;
+        background-color: hwb(104 1% 52% / 0.603);
+        box-shadow: 0 4px 8px rgb(0, 0, 0);
+
+  }
+
+
+.logoAOPA{
+    position: relative;
+    top: -250px;
+    left: 550px;
+    
+}
+.TXTAOPAyeas{
+position: relative;
+top: -390px;
+left: 900px;
+font-size: x-large;
+color: aliceblue;
+}
+
+.IMGfinal{
+   position: relative;
+   top: -300px;
+   left: 300px;
+}
+
+.IMGfinal :hover{
+    background-color: #58535318;
+    color: rgb(31, 255, 1);
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
+    text-transform: calc( -100% - 20px );
+}
+
+
+.h1doe{
+    position: relative;
+    top: -300px;
+    padding: 7%;
+    border-radius: 9%;
+    margin: none;
+    font-size: xx-large;
+    background-color: hwb(0 80% 16% / 0.363);
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
+
+}
+
+
+.contato_div_posicaotabelaAOPA{
+display: flex;
+justify-content: center;    
+width: 900px;
+background-color: #ffffff;
+position: relative;
+left: 310px;
+top: 90px;
+height: 400px ;
+box-shadow: 0 4px 8px rgb(0, 0, 0);
+}
+
+
+.finalindex{
+    display: flex;
+    justify-content: center;
+    background-color: #3b4c3d;;
+   
+}
+
+
